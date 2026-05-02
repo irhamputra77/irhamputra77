@@ -21,11 +21,11 @@ I'm an Informatics student passionate about Full-Stack Web Development, Machine 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=irhamputra77&show_icons=true&theme=tokyonight&hide_border=true" alt="Irham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irhamputra77&show_icons=true&theme=tokyonight" alt="Irham's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irhamputra77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irhamputra77&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 📫 Connect With Me
