@@ -21,13 +21,18 @@ I'm an Informatics student passionate about Full-Stack Web Development, Machine 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irhamputra77&show_icons=true&theme=tokyonight" alt="Irham's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irhamputra77&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irhamputra77&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irhamputra77&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irhamputra77&theme=tokyonight" alt="Top Languages by Repo" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irhamputra77&theme=tokyonight" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irhamputra77&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+</p>
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/irhamputra77
